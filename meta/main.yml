@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: meta_dir
+  author: studioansible
+  description: meta desc
+  company: github
+  issue_tracker_url: github.com
+  license: Apache
+  min_ansible_version: '-'
+  min_ansible_container_version: '-'
+  github_branch: '-'
+  galaxy_tags:
+    - meta
+    - wall
+  platforms:
+    - name: Debian
+      versions:
+        - all
+dependencies: []
